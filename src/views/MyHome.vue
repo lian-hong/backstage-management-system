@@ -11,7 +11,7 @@
 <script>
 // @ is an alias to /src
 export default {
-  name: 'myhome',
+  name: 'MyHome',
   components: {}
 }
 </script>
